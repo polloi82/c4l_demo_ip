@@ -20,7 +20,7 @@ source-code: https://github.com/polloi82/c4l_demo_ip
 # title of site appears in banner
 title: code4lib workshop demo
 # tagline, a workshop demo site using collectionbuilder
-tagline: a template for creating simple digital exhibits
+tagline: a workshop demo site using collectionbuilder
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "created at code4lib 2020. a static digital collection."
